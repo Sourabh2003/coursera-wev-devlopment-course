@@ -1,2 +1,3 @@
-# coursera-wev-devlopment-course
+# coursera-web-devlopment-course
 html css javascript
+
